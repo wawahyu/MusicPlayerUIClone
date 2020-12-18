@@ -1,16 +1,25 @@
-# flutterfresh
+# Meizu Music PLayer UI Clone
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+Install 
 
-A few resources to get you started if this is your first Flutter project:
+# UI Clone!
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+  - List Music Directory
+  - Detail Music
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Installation
+
+
+```sh
+$ flutter create .
+$ flutter run
+```
+
+### ScreenShot
+Music Directory List:
+![Music Directory List](https://github.com/wawahyu/MusicPlayerUIClone/raw/master/screenmain.jpeg)
+
+Music Detail:
+![Music Detail](https://github.com/wawahyu/MusicPlayerUIClone/raw/master/screendetail.jpeg)
